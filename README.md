@@ -4,3 +4,5 @@ Calculator that can add, subtract, multiply, and divide.
 
 
 Test out the code: [![Run on Repl.it](https://repl.it/badge/github/vikrameast/calculator)](https://replit.com/join/vbullgybfm-vikrameast)
+
+    (May need ot install kivy module - type: 'pip install kivy' into the shell.
